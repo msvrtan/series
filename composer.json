@@ -1,0 +1,20 @@
+{
+    "name": "Series",
+    "license": "MIT",
+    "type": "project",
+    "description": "",
+    "autoload": {
+        "psr-0": { "": "src/" }
+    },
+    "require": {
+        "php": ">=5.3.3",
+        "silex/silex": "~1.1"
+    },
+    "scripts": {
+    },
+    "config": {
+        "bin-dir": "bin"
+    },
+    "minimum-stability": "stable",
+
+}
