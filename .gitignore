@@ -1,6 +1,6 @@
 /vendor/
 /composer.phar
-/phpunit.phar #ignoring phpunit.phar in root folder
+/phpunit.phar
 
 #PHPStorm folder
 .idea
