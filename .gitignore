@@ -1,0 +1,12 @@
+/vendor/
+/composer.phar
+/phpunit.phar #ignoring phpunit.phar in root folder
+
+#PHPStorm folder
+.idea
+
+#backup files from unix editors
+*~
+
+#merge files
+*.orig
